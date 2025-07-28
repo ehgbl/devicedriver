@@ -1,12 +1,3 @@
-//=================================================================
-// C++ Device Driver Framework for I2C Communication
-//=================================================================
-
-/* 
-   Device Driver C++ Code (complementary to Verilog testbench)
-   File: i2c_device_driver.cpp
-*/
-
 #include <linux/module.h>
 #include <linux/kernel.h>
 #include <linux/fs.h>
